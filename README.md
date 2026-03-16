@@ -66,6 +66,8 @@ plot(fw2);
 OUTPUT WAVEFORM:
 <img width="1912" height="1110" alt="image" src="https://github.com/user-attachments/assets/9570ca65-d624-4506-aa5a-a5aa4b40c12a" />
 
+OUTPUT WAVEFORM
+<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/7f50326c-1f4c-4ecb-a9df-28d2dc5cf1a7" />
 
 RESULT:
 
